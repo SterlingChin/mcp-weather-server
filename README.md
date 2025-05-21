@@ -2,7 +2,7 @@
 
 A ready-to-use implementation of the Model Context Protocol (MCP) that extends Claude with real-time weather data capabilities.
 
-<iframe width="560" height="315" src="https://youtu.be/Y4bpWRLdRoA?si=TVuUyR79K_N-Zxoo" frameborder="0" allowfullscreen></iframe>
+[![MCP Demo](https://img.youtube.com/vi/Y4bpWRLdRoA/0.jpg)](https://youtu.be/Y4bpWRLdRoA?si=TVuUyR79K_N-Zxoo)
 
 ## What is MCP?
 
